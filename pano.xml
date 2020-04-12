@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17904" appversion="6.1.3">
+  <panorama id="node1">
+    <input levelingroll="0" overlap="1" height="384" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="384" levelbiashidpi="1.000">
+      <level height="384" predecode="1" width="384" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-63.9155" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="63.9155" fov="120" pan="180"/>
+    </view>
+    <userdata info="" comment="" tags="wetransfer-b3fc79" datetime="" source="" author="" longitude="" nodeid="node1" heading="0" description="" latitude="" copyright="" customnodeid="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" height="20" borderalpha="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" borderradius="1" width="180" border="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" url="{node2}" tilt="-18.3" description="" id="Point01" pan="-273.3" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" zoomout="0" blendtime="1" zoomin="0" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" overlap="1" height="384" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="384" levelbiashidpi="1.000">
+      <level height="384" predecode="1" width="384" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-63.9155" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="63.9155" fov="120" pan="180"/>
+    </view>
+    <userdata info="" comment="" tags="wetransfer-b3fc79" datetime="" source="" author="" longitude="" nodeid="node2" heading="0" description="" latitude="" copyright="" customnodeid="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" height="20" borderalpha="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" borderradius="1" width="180" border="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="" skinid="ht_node" url="{node1}" tilt="-19.86" description="" id="Point01" pan="-91.09" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" zoomout="0" blendtime="1" zoomin="0" zoomoutpause="1" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboard="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" comment="" tags="" datetime="" source="" author="" longitude="" nodeid="master" heading="0" description="" latitude="" copyright="" customnodeid="" title=""/>
+  </masternode>
+</tour>
